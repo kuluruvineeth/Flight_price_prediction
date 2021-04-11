@@ -14,3 +14,7 @@ This is a Flask web app which predicts fare of Flight ticket.
 The project directory after cloning the repository : 
 
 pip install -r requirements.txt
+
+## Deployment on Heroku
+* Login or signup in order to create virtual app.
+* we cn either connect github profile or download files to manually deploy this project.
